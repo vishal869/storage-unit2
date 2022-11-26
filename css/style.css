@@ -778,7 +778,7 @@ text-align: right;
     text-align: left;
 }
 .product_type_list .price_ui p {
-    font-size: 31px;
+    font-size: 35px;
 line-height: 22px;
 color: #000000;
 font-weight: bold;
@@ -786,7 +786,7 @@ font-family: "Arial";
     font-weight: bold;
 }
 .product_type_list .price_ui span{
-    font-size: 20px;
+    font-size: 24px;
     line-height: 22px;
     text-decoration: line-through;
     color: #b3afaf;
