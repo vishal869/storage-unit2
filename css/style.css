@@ -1302,7 +1302,7 @@ font-family: "Arial";
     position: relative;
 }
 .menu_btn span{
-    width:100%;
+    width:32px;
     height:2px;
     background: #fff;
     border-radius: 2px;
