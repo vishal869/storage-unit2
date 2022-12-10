@@ -1302,7 +1302,7 @@ font-family: "Arial";
     position: relative;
 }
 .menu_btn span{
-    width:32px;
+    width:28px;
     height:2px;
     background: #fff;
     border-radius: 2px;
@@ -1331,6 +1331,14 @@ font-family: "Arial";
 }
 .back_btn{
     display: none;
+}
+@media (min-width:991px){
+    .cstm_navbar > ul li .cstm_multi_dropdown{
+        display: none;
+    }
+    .cstm_navbar > ul li:hover .cstm_multi_dropdown{
+        display: block;
+    }
 }
 /*HEADER END CSS*/
 /**************/
